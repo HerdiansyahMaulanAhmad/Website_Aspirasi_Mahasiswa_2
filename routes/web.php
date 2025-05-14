@@ -41,7 +41,6 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
     // Halaman data yang dilindungi
     Route::get('/data', [DataController::class, 'index'])->name('data.index');
-    
     // Tambahkan route-route lain yang perlu autentikasi di sini
     Route::get('/data/create', [DataController::class, 'create'])->name('data.create');
     Route::post('/data', [DataController::class, 'store'])->name('data.store');
