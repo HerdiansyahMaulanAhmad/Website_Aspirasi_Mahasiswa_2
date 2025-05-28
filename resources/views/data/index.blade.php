@@ -331,20 +331,27 @@
     
 
     <!-- Footer -->
-    <footer class="mt-6">
+    <footer class="mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-5">
                     <h5 class="mb-3"><i class="fas fa-comment-dots me-2"></i>SAMA-TI</h5>
-                    <p>Sistem Online Suara Aspirasi Mahasiswa Teknologi Informasi</p>
+                    <p class="text-white text-decoration-none">Sistem Online Suara Aspirasi Mahasiswa Teknologi Informasi</p>
+                    <div class="p-4 mb-lg-0 mb-3 bg-white rounded">
+                        <iframe class="w-100" height="320px"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.8939079044085!2d110.459289573567!3d-7.0217554687841055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708c507be50d83%3A0x8b3ed2ccbc3d79c0!2sUniversitas%20Muhammadiyah%20Semarang%20(UNIMUS)!5e0!3m2!1sid!2sid!4v1747204462960!5m2!1sid!2sid"
+                        loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                 </div>
+                <div class="col-md-1"></div> <!-- Kolom kosong untuk spacing -->
                 <div class="col-md-3">
                     <h5 class="mb-3">Tautan</h5>
                     <ul class="list-unstyled">
                         <li><a href="/aspirasi" class="text-white text-decoration-none">Aspirasi</a></li>
                         <li><a href="/about" class="text-white text-decoration-none">Tentang</a></li>
+                        <li><a href="/data" class="text-white text-decoration-none">Data</a></li>
                         @if(Auth::check())
-                        <li><a href="#" class="text-white text-decoration-none">Data</a></li>
+                        
                         @endif
                     </ul>
                 </div>
@@ -352,15 +359,15 @@
                     <h5 class="mb-3">Hubungi Kami</h5>
                     <ul class="list-unstyled">
                         <li><i class="fab fa-instagram me-2"></i><a href="https://www.instagram.com/hmti.unimus?igsh=MWJpNno1cHh1NzQxZw==" class="text-white text-decoration-none">@hmti.unimus</a></li>
-                        <li><i class="fab fa-instagram me-2"></i><a href="#" class="text-white text-decoration-none">@advokastrat.hmti</a></li>
+                        <li><i class="fab fa-instagram me-2"></i><a href="https://www.instagram.com/teukuzyn?igsh=MTUwOGUzY3R0ejBpMg==" class="text-white text-decoration-none">@advokastrat.hmti</a></li>
                         <li><i class="fab fa-tiktok me-2"></i><a href="https://www.tiktok.com/@hmti_unimus?_t=ZS-8wExdr4KAi1&_r=1" class="text-white text-decoration-none">@hmti_unimus</a></li>
                     </ul>
                 </div>
             </div>
             <hr class="mt-4 mb-4" style="border-color: rgba(255,255,255,0.1);">
             <div class="text-center">
-                <p class="mb-0">&copy; 2025 SAMA-TI</p>
-                <p>Universitas Muhammdiyah Semarang</p>
+                <p class="text-white text-decoration-none mb-0">&copy; 2025 SAMA-TI</p>
+                <p class="text-white text-decoration-none">Universitas Muhammdiyah Semarang</p>
             </div>
         </div>
     </footer>
