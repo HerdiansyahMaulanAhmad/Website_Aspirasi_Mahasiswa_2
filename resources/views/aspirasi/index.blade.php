@@ -407,7 +407,7 @@
                     </ul>
                 </div>
                 <div class="col-md-3">
-                    <h5 class="mb-3">Hubungi Kami kjkwjow dari berbagai sesuatu yang harus dilakukan sekarang. membuat suatu fitur yang harus dilakukan olhe suatu programmer handal</h5>
+                    <h5 class="mb-3">Hubungi Kami</h5>
                     <ul class="list-unstyled">
                         <li><i class="fab fa-instagram me-2"></i><a href="https://www.instagram.com/hmti.unimus?igsh=MWJpNno1cHh1NzQxZw==" class="text-white text-decoration-none">@hmti.unimus</a></li>
                         <li><i class="fab fa-instagram me-2"></i><a href="https://www.instagram.com/teukuzyn?igsh=MTUwOGUzY3R0ejBpMg==" class="text-white text-decoration-none">@advokastrat.hmti</a></li>
