@@ -272,7 +272,7 @@
                         <a class="nav-link" href="aspirasi"><i class="fas fa-bullhorn me-1"></i> Aspirasi</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="about"><i class="fas fa-info-circle me-1"></i> Tentang wkw pemantauan real time menggunakan suatu perangkat IOT dan mungkin bisa di implementasikan di suatu perangkat elektronik</a>
+                        <a class="nav-link active" href="about"><i class="fas fa-info-circle me-1"></i> Tentang</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="data"><i class="fas fa-dollar-sign me-1"></i> Data</a>
