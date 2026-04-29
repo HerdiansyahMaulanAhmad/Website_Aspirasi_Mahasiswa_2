@@ -269,7 +269,7 @@
                 <ul class="navbar-nav ms-auto">
                     <!-- Menghapus titik biru di sini -->
                     <li class="nav-item">
-                        <a class="nav-link" href="aspirasi"><i class="fas fa-bullhorn me-1"></i> Aspirasi</a>
+                        <a class="nav-link" href="aspirasi"><i class="fas fa-bullhorn me-1"></i> Aspirasi wkwk variable a adalah suatu konsant</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="about"><i class="fas fa-info-circle me-1"></i> Tentang</a>
