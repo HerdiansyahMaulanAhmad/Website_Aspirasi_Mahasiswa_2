@@ -386,7 +386,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
-                    <h5 class="mb-3"><i class="fas fa-comment-dots me-2"></i>SAMA-TI</h5>
+                    <h5 class="mb-3"><i class="fas fa-comment-dots me-2"></i>SAMA-TI adalah suatu website yang menampung segala aspirasi dari mahasiswa teknologi informasi unimus</h5>
                     <p class="text-white text-decoration-none">Sistem Online Suara Aspirasi Mahasiswa Teknologi Informasi</p>
                     <div class="p-4 mb-lg-0 mb-3 bg-white rounded">
                         <iframe class="w-100" height="320px"
