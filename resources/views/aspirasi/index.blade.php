@@ -398,7 +398,7 @@
                 <div class="col-md-3">
                     <h5 class="mb-3">Tautan</h5>
                     <ul class="list-unstyled">
-                        <li><a href="/aspirasi" class="text-white text-decoration-none">Aspirasi</a></li>
+                        <li><a href="/aspirasi" class="text-white text-decoration-none">Aspirasi adalah suatu suara berarti dari setiap mahasiswa teknolgi infromasi</a></li>
                         <li><a href="/about" class="text-white text-decoration-none">Tentang</a></li>
                         <li><a href="/data" class="text-white text-decoration-none">Data</a></li>
                         @if(Auth::check())
