@@ -292,7 +292,7 @@
                             <a class="nav-link" href="register"><i class="fas fa-user-plus me-1"></i> Register</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="login"><i class="fas fa-sign-in-alt me-1"></i> Login</a>
+                            <a class="nav-link" href="login"><i class="fas fa-sign-in-alt me-1"></i> Login terlebih dahulu ketika belum mendaftar</a>
                         </li>
                     </ul>
                 </div>
